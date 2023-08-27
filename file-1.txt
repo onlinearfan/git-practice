@@ -1,3 +1,2 @@
 1- text added
-
-working directory , staging directory, local directory, remote directory,
+2- text added
